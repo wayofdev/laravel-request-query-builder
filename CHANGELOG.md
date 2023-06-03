@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.2...v1.1.0) (2023-06-03)
+
+
+### Features
+
+* add criteria manager interface ([a025936](https://github.com/wayofdev/laravel-request-query-builder/commit/a0259366ad4ac78721b6a63245d8b4173c757300))
+
 ## [1.0.2](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.1...v1.0.2) (2023-06-03)
 
 
