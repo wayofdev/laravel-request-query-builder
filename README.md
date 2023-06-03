@@ -35,7 +35,7 @@ If you **like/use** this package, please consider **starring** it. Thanks!
 Require as dependency:
 
 ```bash
-$ composer req wayofdev/laravel-request-query-builder
+$ composer req wayofdev/request-query-builder
 ```
 
 <br>
@@ -55,7 +55,7 @@ $ make test
 Code quality using PHPStan:
 
 ```bash
-$ make stan
+$ make lint-stan
 ```
 
 ### → Coding Standards Fixing
@@ -63,7 +63,7 @@ $ make stan
 Fix code using The PHP Coding Standards Fixer (PHP CS Fixer) to follow our standards:
 
 ```bash
-$ make cs-fix
+$ make lint-php
 ```
 
 <br>
