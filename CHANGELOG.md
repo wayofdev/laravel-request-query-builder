@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.1...v1.0.2) (2023-06-03)
+
+
+### Documentation
+
+* fix badges ([526e446](https://github.com/wayofdev/laravel-request-query-builder/commit/526e446a9da09f80ab8925ed5b9d2d82f75e136d))
+
 ## [1.0.1](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.0...v1.0.1) (2023-06-03)
 
 
