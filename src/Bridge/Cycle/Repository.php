@@ -8,7 +8,9 @@ use Cycle\ORM\EntityManagerInterface;
 use Cycle\ORM\Select;
 use Cycle\ORM\Select\Repository as CycleRepository;
 use Illuminate\Support\Collection;
+use Spiral\Pagination\Paginator as SpiralPaginator;
 use Throwable;
+use WayOfDev\Paginator\CyclePaginator;
 use WayOfDev\RQL\Bridge\Cycle\Concerns\HasCriteria;
 
 /**
@@ -63,6 +65,28 @@ class Repository extends CycleRepository
         );
 
         $this->entityManager->run();
+    }
+
+    public function paginate(int $perPage = 20, int $page = 1, string $pageName = 'page'): CyclePaginator
+    {
+        $select = $this->applyCriteria($this->select());
+
+        return $this->paginateQuery(
+            $select,
+            $perPage,
+            $page,
+            $pageName,
+        );
+    }
+
+    protected function paginateQuery(Select $query, int $perPage = 20, int $page = 1, string $pageName = 'page'): CyclePaginator
+    {
+        return new CyclePaginator(
+            // @phpstan-ignore-next-line
+            (new SpiralPaginator($perPage))->withPage($page)->paginate($query),
+            $this->createCollection($query->fetchAll()),
+            $pageName,
+        );
     }
 
     protected function createCollection(iterable $items): Collection
