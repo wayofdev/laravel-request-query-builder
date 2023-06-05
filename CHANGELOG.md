@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.1.0...v1.2.0) (2023-06-05)
+
+
+### Features
+
+* add support for pagination ([4582d39](https://github.com/wayofdev/laravel-request-query-builder/commit/4582d39e197cd0369ddb1295bdca3be77fcfe7dc))
+
 ## [1.1.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.2...v1.1.0) (2023-06-03)
 
 
