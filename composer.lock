@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "af0b3a0e1fe3600d564ec040c46ccc31",
+    "content-hash": "f849c18b1e344a0700855ec89c02d09c",
     "packages": [
         {
             "name": "brick/math",
@@ -2646,6 +2646,62 @@
                 "source": "https://github.com/php-fig/event-dispatcher/tree/1.0.0"
             },
             "time": "2019-01-08T18:20:26+00:00"
+        },
+        {
+            "name": "psr/link",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/link.git",
+                "reference": "84b159194ecfd7eaa472280213976e96415433f7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/link/zipball/84b159194ecfd7eaa472280213976e96415433f7",
+                "reference": "84b159194ecfd7eaa472280213976e96415433f7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.0"
+            },
+            "suggest": {
+                "fig/link-util": "Provides some useful PSR-13 utilities"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Link\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "http://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interfaces for HTTP links",
+            "homepage": "https://github.com/php-fig/link",
+            "keywords": [
+                "http",
+                "http-link",
+                "link",
+                "psr",
+                "psr-13",
+                "rest"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/link/tree/2.0.1"
+            },
+            "time": "2021-03-11T23:00:27+00:00"
         },
         {
             "name": "psr/log",
@@ -5628,6 +5684,89 @@
             "time": "2023-05-25T13:09:35+00:00"
         },
         {
+            "name": "symfony/web-link",
+            "version": "v6.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/web-link.git",
+                "reference": "0989ca617d0703cdca501a245f10e194ff22315b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/web-link/zipball/0989ca617d0703cdca501a245f10e194ff22315b",
+                "reference": "0989ca617d0703cdca501a245f10e194ff22315b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1",
+                "psr/link": "^1.1|^2.0"
+            },
+            "conflict": {
+                "symfony/http-kernel": "<5.4"
+            },
+            "provide": {
+                "psr/link-implementation": "1.0|2.0"
+            },
+            "require-dev": {
+                "symfony/http-kernel": "^5.4|^6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\WebLink\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kévin Dunglas",
+                    "email": "dunglas@gmail.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Manages links between resources",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "dns-prefetch",
+                "http",
+                "http2",
+                "link",
+                "performance",
+                "prefetch",
+                "preload",
+                "prerender",
+                "psr13",
+                "push"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/web-link/tree/v6.3.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2023-04-21T14:41:17+00:00"
+        },
+        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "2.2.6",
             "source": {
@@ -5840,16 +5979,16 @@
         },
         {
             "name": "wayofdev/laravel-cycle-orm-adapter",
-            "version": "v3.3.0",
+            "version": "v3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-cycle-orm-adapter.git",
-                "reference": "9214d4f3f01dad64ade07f5c0f1e47c29cde7226"
+                "reference": "575c4f67c753b1b65cbd2a35818dd15561d3477c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/9214d4f3f01dad64ade07f5c0f1e47c29cde7226",
-                "reference": "9214d4f3f01dad64ade07f5c0f1e47c29cde7226",
+                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/575c4f67c753b1b65cbd2a35818dd15561d3477c",
+                "reference": "575c4f67c753b1b65cbd2a35818dd15561d3477c",
                 "shasum": ""
             },
             "require": {
@@ -5929,7 +6068,79 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-06-03T15:25:43+00:00"
+            "time": "2023-06-05T00:25:29+00:00"
+        },
+        {
+            "name": "wayofdev/paginator",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wayofdev/laravel-paginator.git",
+                "reference": "ce030586fd05482e85cd2fee3d6db6e6251f1cce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/ce030586fd05482e85cd2fee3d6db6e6251f1cce",
+                "reference": "ce030586fd05482e85cd2fee3d6db6e6251f1cce",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/contracts": "^v10.13",
+                "php": "^8.2",
+                "spiral/pagination": "^3.7",
+                "symfony/web-link": "^6.3"
+            },
+            "require-dev": {
+                "ergebnis/composer-normalize": "^2.31",
+                "nunomaduro/larastan": "^2.6",
+                "orchestra/testbench": "^8.5",
+                "pestphp/pest": "^2.6",
+                "pestphp/pest-plugin-laravel": "^2.0.0",
+                "phpstan/extension-installer": "^1.3",
+                "phpstan/phpstan": "^1.10",
+                "phpstan/phpstan-deprecation-rules": "^1.1",
+                "phpstan/phpstan-phpunit": "^1.3",
+                "phpstan/phpstan-strict-rules": "^1.5",
+                "phpunit/phpunit": "^10.2",
+                "roave/security-advisories": "dev-latest",
+                "tiagohillebrandt/php-parse-link-header": "^1.0",
+                "wayofdev/cs-fixer-config": "^1.2"
+            },
+            "type": "library",
+            "extra": {
+                "composer-normalize": {
+                    "indent-size": 4,
+                    "indent-style": "space"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "WayOfDev\\Paginator\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lotyp",
+                    "email": "the@wayof.dev"
+                }
+            ],
+            "description": "Custom Laravel Paginator for Cycle-ORM implementing RFC 5988.",
+            "homepage": "https://wayof.dev",
+            "support": {
+                "issues": "https://github.com/wayofdev/laravel-paginator/issues",
+                "source": "https://github.com/wayofdev/laravel-paginator"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/wayofdev",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-06-05T06:49:57+00:00"
         },
         {
             "name": "webmozart/assert",
