@@ -12,10 +12,10 @@
 
 <div align="center">
 <a href="https://github.com/wayofdev/laravel-request-query-builder/actions"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fwayofdev%2Flaravel-request-query-builder%2Fbadge&style=flat-square"/></a>
-<a href="https://packagist.org/packages/wayofdev/request-query-builder"><img src="https://img.shields.io/packagist/dt/wayofdev/request-query-builder?&style=flat-square" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/wayofdev/request-query-builder"><img src="https://img.shields.io/packagist/v/wayofdev/request-query-builder?&style=flat-square" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/wayofdev/request-query-builder"><img src="https://img.shields.io/packagist/l/wayofdev/request-query-builder?style=flat-square&color=blue" alt="Software License"/></a>
-<a href="https://packagist.org/packages/wayofdev/request-query-builder"><img alt="Commits since latest release" src="https://img.shields.io/github/commits-since/wayofdev/laravel-request-query-builder/latest?style=flat-square"></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-request-query-builder"><img src="https://img.shields.io/packagist/dt/wayofdev/laravel-request-query-builder?&style=flat-square" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-request-query-builder"><img src="https://img.shields.io/packagist/v/wayofdev/laravel-request-query-builder?&style=flat-square" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-request-query-builder"><img src="https://img.shields.io/packagist/l/wayofdev/laravel-request-query-builder?style=flat-square&color=blue" alt="Software License"/></a>
+<a href="https://packagist.org/packages/wayofdev/laravel-request-query-builder"><img alt="Commits since latest release" src="https://img.shields.io/github/commits-since/wayofdev/laravel-request-query-builder/latest?style=flat-square"></a>
 </div>
 
 <br>
@@ -35,7 +35,7 @@ If you **like/use** this package, please consider **starring** it. Thanks!
 Require as dependency:
 
 ```bash
-$ composer req wayofdev/request-query-builder
+$ composer req wayofdev/laravel-request-query-builder
 ```
 
 <br>
