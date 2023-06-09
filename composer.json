@@ -1,5 +1,5 @@
 {
-    "name": "wayofdev/request-query-builder",
+    "name": "wayofdev/laravel-request-query-builder",
     "description": "RQL - Resource Query Language for Laravel.",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
         "php": "^8.2",
         "laminas/laminas-hydrator": "^4.14",
         "wayofdev/laravel-cycle-orm-adapter": "^3.1",
-        "wayofdev/paginator": "^1.0"
+        "wayofdev/laravel-paginator": "^1.0"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.31",
