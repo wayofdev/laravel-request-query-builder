@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.2.2](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.2.1...v1.2.2) (2023-06-09)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.1 ([8070ac0](https://github.com/wayofdev/laravel-request-query-builder/commit/8070ac006a5b35340dfe49268351aee1209e116c))
+
+## [1.2.1](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.2.0...v1.2.1) (2023-06-09)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.18 ([70a7f0e](https://github.com/wayofdev/laravel-request-query-builder/commit/70a7f0e1367888b0338efc5beb88b3f17d0faf13))
+
+## [1.2.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.1.0...v1.2.0) (2023-06-05)
+
+
+### Features
+
+* add support for pagination ([4582d39](https://github.com/wayofdev/laravel-request-query-builder/commit/4582d39e197cd0369ddb1295bdca3be77fcfe7dc))
+
 ## [1.1.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.0.2...v1.1.0) (2023-06-03)
 
 
