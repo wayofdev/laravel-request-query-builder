@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.2.2...v1.3.0) (2023-06-09)
+
+
+### Features
+
+* changing composer namespaces ([96c09a2](https://github.com/wayofdev/laravel-request-query-builder/commit/96c09a236572442e6300766072b7e4503d33411c))
+* changing composer namespaces ([72dd33a](https://github.com/wayofdev/laravel-request-query-builder/commit/72dd33abc37184d3b701dcc16a82c4fff6165b1c))
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.11 ([89ed0d0](https://github.com/wayofdev/laravel-request-query-builder/commit/89ed0d00268798ccc3c80ee51e3c2067de139a81))
+
 ## [1.2.2](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.2.1...v1.2.2) (2023-06-09)
 
 
