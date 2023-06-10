@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.0...v1.3.1) (2023-06-10)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.2 ([0b05a0f](https://github.com/wayofdev/laravel-request-query-builder/commit/0b05a0f53f4339f776578a0f4d2a723ed18a71b5))
+
 ## [1.3.0](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.2.2...v1.3.0) (2023-06-09)
 
 
