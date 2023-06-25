@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.51](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.50...v1.3.51) (2023-06-25)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.19 ([3280764](https://github.com/wayofdev/laravel-request-query-builder/commit/3280764c11bb9705234476ecdbcdb5656c0128dc))
+
 ## [1.3.50](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.49...v1.3.50) (2023-06-25)
 
 
