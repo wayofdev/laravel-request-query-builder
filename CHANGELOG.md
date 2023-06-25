@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.50](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.49...v1.3.50) (2023-06-25)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpunit/phpunit to v10.2.2 ([b1822f3](https://github.com/wayofdev/laravel-request-query-builder/commit/b1822f32341180c4ebc1ad4b6d46644a4e5dd15e))
+
 ## [1.3.49](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.48...v1.3.49) (2023-06-25)
 
 
