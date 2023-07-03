@@ -2016,16 +2016,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.67.0",
+            "version": "2.68.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "c1001b3bc75039b07f38a79db5237c4c529e04c8"
+                "reference": "4f991ed2a403c85efbc4f23eb4030063fdbe01da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/c1001b3bc75039b07f38a79db5237c4c529e04c8",
-                "reference": "c1001b3bc75039b07f38a79db5237c4c529e04c8",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/4f991ed2a403c85efbc4f23eb4030063fdbe01da",
+                "reference": "4f991ed2a403c85efbc4f23eb4030063fdbe01da",
                 "shasum": ""
             },
             "require": {
@@ -2114,7 +2114,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-25T22:09:47+00:00"
+            "time": "2023-06-20T18:29:04+00:00"
         },
         {
             "name": "nette/php-generator",
@@ -5979,16 +5979,16 @@
         },
         {
             "name": "wayofdev/laravel-cycle-orm-adapter",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-cycle-orm-adapter.git",
-                "reference": "22f6df14101b6a182b4b6937bb97aaa4732b3dd3"
+                "reference": "0fbaba3d402546f34cc0279c77707e50ce0a1096"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/22f6df14101b6a182b4b6937bb97aaa4732b3dd3",
-                "reference": "22f6df14101b6a182b4b6937bb97aaa4732b3dd3",
+                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/0fbaba3d402546f34cc0279c77707e50ce0a1096",
+                "reference": "0fbaba3d402546f34cc0279c77707e50ce0a1096",
                 "shasum": ""
             },
             "require": {
@@ -6068,7 +6068,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-07-02T10:39:24+00:00"
+            "time": "2023-07-03T01:27:19+00:00"
         },
         {
             "name": "wayofdev/laravel-paginator",
