@@ -5979,16 +5979,16 @@
         },
         {
             "name": "wayofdev/laravel-cycle-orm-adapter",
-            "version": "v3.4.25",
+            "version": "v3.4.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-cycle-orm-adapter.git",
-                "reference": "83c8c23cbc650be686d48187a01274549d2b7c45"
+                "reference": "87ca579c3699a1aa051cc6cd702c0be429f40f0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/83c8c23cbc650be686d48187a01274549d2b7c45",
-                "reference": "83c8c23cbc650be686d48187a01274549d2b7c45",
+                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/87ca579c3699a1aa051cc6cd702c0be429f40f0a",
+                "reference": "87ca579c3699a1aa051cc6cd702c0be429f40f0a",
                 "shasum": ""
             },
             "require": {
@@ -6068,7 +6068,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-07-05T13:20:47+00:00"
+            "time": "2023-07-05T15:46:19+00:00"
         },
         {
             "name": "wayofdev/laravel-paginator",
