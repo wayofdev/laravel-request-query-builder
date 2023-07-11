@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.103](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.102...v1.3.103) (2023-07-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency wayofdev/laravel-paginator to v1.2.38 ([3046f06](https://github.com/wayofdev/laravel-request-query-builder/commit/3046f06d2e203b0c391b4ad604f9e9016e7caed2))
+
 ## [1.3.102](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.101...v1.3.102) (2023-07-11)
 
 
