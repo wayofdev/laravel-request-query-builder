@@ -1309,16 +1309,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v10.16.0",
+            "version": "v10.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "7589f09fe0e8735615cf25f0f1807682aac124c1"
+                "reference": "5c93d2795c393b462481179ce42dedfb30cc19b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/7589f09fe0e8735615cf25f0f1807682aac124c1",
-                "reference": "7589f09fe0e8735615cf25f0f1807682aac124c1",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/5c93d2795c393b462481179ce42dedfb30cc19b5",
+                "reference": "5c93d2795c393b462481179ce42dedfb30cc19b5",
                 "shasum": ""
             },
             "require": {
@@ -1505,7 +1505,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-07-25T14:31:32+00:00"
+            "time": "2023-07-26T03:30:46+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -6025,16 +6025,16 @@
         },
         {
             "name": "wayofdev/laravel-cycle-orm-adapter",
-            "version": "v4.0.22",
+            "version": "v4.0.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-cycle-orm-adapter.git",
-                "reference": "b3ee72031daf78c64032c058e081b9d2e55a5085"
+                "reference": "3626a156b73b9351ed66e87fc545b69b370b34df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/b3ee72031daf78c64032c058e081b9d2e55a5085",
-                "reference": "b3ee72031daf78c64032c058e081b9d2e55a5085",
+                "url": "https://api.github.com/repos/wayofdev/laravel-cycle-orm-adapter/zipball/3626a156b73b9351ed66e87fc545b69b370b34df",
+                "reference": "3626a156b73b9351ed66e87fc545b69b370b34df",
                 "shasum": ""
             },
             "require": {
@@ -6115,7 +6115,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-07-25T15:19:20+00:00"
+            "time": "2023-07-28T12:07:27+00:00"
         },
         {
             "name": "wayofdev/laravel-paginator",
