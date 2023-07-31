@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.148](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.147...v1.3.148) (2023-07-31)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.9.5 ([3552919](https://github.com/wayofdev/laravel-request-query-builder/commit/3552919d2df62b18f87f364c837b34356576bdc3))
+
 ## [1.3.147](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.146...v1.3.147) (2023-07-30)
 
 
