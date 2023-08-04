@@ -6172,16 +6172,16 @@
         },
         {
             "name": "wayofdev/laravel-paginator",
-            "version": "v1.2.58",
+            "version": "v1.2.59",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-paginator.git",
-                "reference": "46a93191d23e5010545a1716f3609be3400e2c91"
+                "reference": "0ddadf9eeb4945c00dc7026bb6a3938665065ac2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/46a93191d23e5010545a1716f3609be3400e2c91",
-                "reference": "46a93191d23e5010545a1716f3609be3400e2c91",
+                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/0ddadf9eeb4945c00dc7026bb6a3938665065ac2",
+                "reference": "0ddadf9eeb4945c00dc7026bb6a3938665065ac2",
                 "shasum": ""
             },
             "require": {
@@ -6240,7 +6240,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-08-04T04:55:56+00:00"
+            "time": "2023-08-04T12:23:42+00:00"
         },
         {
             "name": "webmozart/assert",
