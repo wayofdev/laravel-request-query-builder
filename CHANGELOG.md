@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.169](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.168...v1.3.169) (2023-08-05)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan-deprecation-rules to v1.1.4 ([8b14d60](https://github.com/wayofdev/laravel-request-query-builder/commit/8b14d60d7f95820a083dce3f865ce7295ec64bc3))
+
 ## [1.3.168](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.167...v1.3.168) (2023-08-05)
 
 
