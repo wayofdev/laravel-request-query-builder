@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.175](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.174...v1.3.175) (2023-08-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency wayofdev/laravel-cycle-orm-adapter to v4.0.43 ([d31158b](https://github.com/wayofdev/laravel-request-query-builder/commit/d31158b2abc7458e688f0c9c0d87445d4fc5c133))
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.12.1 ([ab30140](https://github.com/wayofdev/laravel-request-query-builder/commit/ab301407f0ea56d4f4ce1daa4988d23b22502d0c))
+
 ## [1.3.174](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.173...v1.3.174) (2023-08-07)
 
 
