@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.178](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.177...v1.3.178) (2023-08-08)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.6.0 ([73f1d18](https://github.com/wayofdev/laravel-request-query-builder/commit/73f1d1876d86a885aed404272476415f8f1285d2))
+
 ## [1.3.177](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.176...v1.3.177) (2023-08-08)
 
 
