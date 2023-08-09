@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.188](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.187...v1.3.188) (2023-08-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency wayofdev/laravel-cycle-orm-adapter to v4.0.49 ([49e0e45](https://github.com/wayofdev/laravel-request-query-builder/commit/49e0e459e8fd478b898bd43e8d203bdec48c4628))
+
 ## [1.3.187](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.186...v1.3.187) (2023-08-09)
 
 
