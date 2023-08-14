@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.206](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.205...v1.3.206) (2023-08-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.29 ([88de410](https://github.com/wayofdev/laravel-request-query-builder/commit/88de4109aa87e5f921ccebd81e1dbda95d837853))
+
 ## [1.3.205](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.204...v1.3.205) (2023-08-14)
 
 
