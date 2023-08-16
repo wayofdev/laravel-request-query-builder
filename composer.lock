@@ -2110,24 +2110,28 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.68.1",
+            "version": "2.69.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "4f991ed2a403c85efbc4f23eb4030063fdbe01da"
+                "reference": "4308217830e4ca445583a37d1bf4aff4153fa81c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/4f991ed2a403c85efbc4f23eb4030063fdbe01da",
-                "reference": "4f991ed2a403c85efbc4f23eb4030063fdbe01da",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/4308217830e4ca445583a37d1bf4aff4153fa81c",
+                "reference": "4308217830e4ca445583a37d1bf4aff4153fa81c",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "php": "^7.1.8 || ^8.0",
+                "psr/clock": "^1.0",
                 "symfony/polyfill-mbstring": "^1.0",
                 "symfony/polyfill-php80": "^1.16",
                 "symfony/translation": "^3.4 || ^4.0 || ^5.0 || ^6.0"
+            },
+            "provide": {
+                "psr/clock-implementation": "1.0"
             },
             "require-dev": {
                 "doctrine/dbal": "^2.0 || ^3.1.4",
@@ -2208,7 +2212,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-06-20T18:29:04+00:00"
+            "time": "2023-08-03T09:00:52+00:00"
         },
         {
             "name": "nette/php-generator",
@@ -2637,6 +2641,54 @@
                 "source": "https://github.com/php-fig/cache/tree/3.0.0"
             },
             "time": "2021-02-03T23:26:27+00:00"
+        },
+        {
+            "name": "psr/clock",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/clock.git",
+                "reference": "e41a24703d4560fd0acb709162f73b8adfc3aa0d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/clock/zipball/e41a24703d4560fd0acb709162f73b8adfc3aa0d",
+                "reference": "e41a24703d4560fd0acb709162f73b8adfc3aa0d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0 || ^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Clock\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for reading the clock.",
+            "homepage": "https://github.com/php-fig/clock",
+            "keywords": [
+                "clock",
+                "now",
+                "psr",
+                "psr-20",
+                "time"
+            ],
+            "support": {
+                "issues": "https://github.com/php-fig/clock/issues",
+                "source": "https://github.com/php-fig/clock/tree/1.0.0"
+            },
+            "time": "2022-11-25T14:36:26+00:00"
         },
         {
             "name": "psr/container",
@@ -3337,16 +3389,16 @@
         },
         {
             "name": "spiral/pagination",
-            "version": "3.8.0",
+            "version": "3.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spiral/pagination.git",
-                "reference": "fc2209322be6c548a8658d2a0785c588f3ee3764"
+                "reference": "80911c9cfa9cd153f055e0facfe5c3084e916bea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spiral/pagination/zipball/fc2209322be6c548a8658d2a0785c588f3ee3764",
-                "reference": "fc2209322be6c548a8658d2a0785c588f3ee3764",
+                "url": "https://api.github.com/repos/spiral/pagination/zipball/80911c9cfa9cd153f055e0facfe5c3084e916bea",
+                "reference": "80911c9cfa9cd153f055e0facfe5c3084e916bea",
                 "shasum": ""
             },
             "require": {
@@ -3360,7 +3412,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.8.x-dev"
+                    "dev-master": "3.9.x-dev"
                 }
             },
             "autoload": {
@@ -3396,7 +3448,7 @@
                 "issues": "https://github.com/spiral/framework/issues",
                 "source": "https://github.com/spiral/pagination"
             },
-            "time": "2023-04-25T17:34:17+00:00"
+            "time": "2023-08-14T17:48:10+00:00"
         },
         {
             "name": "spiral/reactor",
@@ -6172,16 +6224,16 @@
         },
         {
             "name": "wayofdev/laravel-paginator",
-            "version": "v1.2.77",
+            "version": "v1.2.78",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-paginator.git",
-                "reference": "c147fbff9f90e902bd2eaf6f747b66358e136c40"
+                "reference": "da56471583f18ebf065cd0c054b38cd954711ad8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/c147fbff9f90e902bd2eaf6f747b66358e136c40",
-                "reference": "c147fbff9f90e902bd2eaf6f747b66358e136c40",
+                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/da56471583f18ebf065cd0c054b38cd954711ad8",
+                "reference": "da56471583f18ebf065cd0c054b38cd954711ad8",
                 "shasum": ""
             },
             "require": {
@@ -6240,7 +6292,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-08-15T09:17:39+00:00"
+            "time": "2023-08-16T19:00:49+00:00"
         },
         {
             "name": "webmozart/assert",
