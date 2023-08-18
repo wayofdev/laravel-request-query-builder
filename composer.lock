@@ -3389,7 +3389,7 @@
         },
         {
             "name": "spiral/pagination",
-            "version": "3.8.1",
+            "version": "3.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spiral/pagination.git",
@@ -6224,16 +6224,16 @@
         },
         {
             "name": "wayofdev/laravel-paginator",
-            "version": "v1.2.78",
+            "version": "v1.2.79",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-paginator.git",
-                "reference": "da56471583f18ebf065cd0c054b38cd954711ad8"
+                "reference": "e92889501581a5a540a6f38220852aa6e1c84c7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/da56471583f18ebf065cd0c054b38cd954711ad8",
-                "reference": "da56471583f18ebf065cd0c054b38cd954711ad8",
+                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/e92889501581a5a540a6f38220852aa6e1c84c7a",
+                "reference": "e92889501581a5a540a6f38220852aa6e1c84c7a",
                 "shasum": ""
             },
             "require": {
@@ -6292,7 +6292,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-08-16T19:00:49+00:00"
+            "time": "2023-08-18T10:30:50+00:00"
         },
         {
             "name": "webmozart/assert",
