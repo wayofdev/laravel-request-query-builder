@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.256](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.255...v1.3.256) (2023-09-04)
+
+
+### Miscellaneous
+
+* **deps:** update dependency ergebnis/composer-normalize to v2.36.0 ([7dedbd4](https://github.com/wayofdev/laravel-request-query-builder/commit/7dedbd4108d81d2acbda12ddd41c5297e0d9baeb))
+
 ## [1.3.255](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.254...v1.3.255) (2023-09-04)
 
 
