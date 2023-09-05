@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.261](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.260...v1.3.261) (2023-09-05)
+
+
+### Miscellaneous
+
+* **deps:** update actions/checkout action to v4 ([acc8152](https://github.com/wayofdev/laravel-request-query-builder/commit/acc8152de74b34927d76239689cfed91d435f991))
+
 ## [1.3.260](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.259...v1.3.260) (2023-09-04)
 
 
