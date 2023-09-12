@@ -1505,16 +1505,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.1.6",
+            "version": "v0.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "b514c5620e1b3b61221b0024dc88def26d9654f4"
+                "reference": "554e7d855a22e87942753d68e23b327ad79b2070"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/b514c5620e1b3b61221b0024dc88def26d9654f4",
-                "reference": "b514c5620e1b3b61221b0024dc88def26d9654f4",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/554e7d855a22e87942753d68e23b327ad79b2070",
+                "reference": "554e7d855a22e87942753d68e23b327ad79b2070",
                 "shasum": ""
             },
             "require": {
@@ -1547,9 +1547,9 @@
             ],
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.1.6"
+                "source": "https://github.com/laravel/prompts/tree/v0.1.7"
             },
-            "time": "2023-08-18T13:32:23+00:00"
+            "time": "2023-09-12T11:09:22+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -6225,16 +6225,16 @@
         },
         {
             "name": "wayofdev/laravel-paginator",
-            "version": "v1.2.101",
+            "version": "v1.2.102",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wayofdev/laravel-paginator.git",
-                "reference": "e4f9079c2a88f4beede68bfaa6ba659b4b31d891"
+                "reference": "5009901d5423f666f4d131604d2f61d0a892e8b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/e4f9079c2a88f4beede68bfaa6ba659b4b31d891",
-                "reference": "e4f9079c2a88f4beede68bfaa6ba659b4b31d891",
+                "url": "https://api.github.com/repos/wayofdev/laravel-paginator/zipball/5009901d5423f666f4d131604d2f61d0a892e8b4",
+                "reference": "5009901d5423f666f4d131604d2f61d0a892e8b4",
                 "shasum": ""
             },
             "require": {
@@ -6293,7 +6293,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-09-08T22:41:40+00:00"
+            "time": "2023-09-12T17:33:32+00:00"
         },
         {
             "name": "webmozart/assert",
