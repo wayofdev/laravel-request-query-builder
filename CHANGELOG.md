@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.287](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.286...v1.3.287) (2023-09-15)
+
+
+### Miscellaneous
+
+* **deps:** update codecov/codecov-action action to v4 ([35f63a0](https://github.com/wayofdev/laravel-request-query-builder/commit/35f63a04b34ecd9f3bc2c458e7e09f85e901f268))
+
 ## [1.3.286](https://github.com/wayofdev/laravel-request-query-builder/compare/v1.3.285...v1.3.286) (2023-09-15)
 
 
