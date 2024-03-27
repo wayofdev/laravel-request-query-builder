@@ -1,8 +1,8 @@
 <br>
 
 <div align="center">
-<img width="456" src="https://raw.githubusercontent.com/wayofdev/ansible-role-tpl/master/assets/logo.gh-light-mode-only.png#gh-light-mode-only">
-<img width="456" src="https://raw.githubusercontent.com/wayofdev/ansible-role-tpl/master/assets/logo.gh-dark-mode-only.png#gh-dark-mode-only">
+<img width="456" src="https://raw.githubusercontent.com/wayofdev/laravel-request-query-builder/master/assets/logo.gh-light-mode-only.png#gh-light-mode-only">
+<img width="456" src="https://raw.githubusercontent.com/wayofdev/laravel-request-query-builder/master/assets/logo.gh-dark-mode-only.png#gh-dark-mode-only">
 </div>
 
 
@@ -20,13 +20,14 @@
 
 <br>
 
-# Laravel Package Template
+> [!WARNING]  
+> This package is deprecated and archived. Please use [wayofdev/laravel-data-query-builder](https://github.com/wayofdev/laravel-data-query-builder) instead.
 
-This is minimal Laravel template which is used by other PHP projects in wayofdev organization.
+# Laravel Request Query Builder
+
+This Laravel package provides a Query Builder for API requests, which is useful for filtering, sorting and paginating data.
 
 If you **like/use** this package, please consider **starring** it. Thanks!
-
-![Screenshot](assets/screenshot.png)
 
 ## 💿 Installation
 
